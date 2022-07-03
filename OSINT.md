@@ -41,9 +41,16 @@ valid LinkedIn credentials and depends on a LinkedIn connection to individuals i
 organization. The script will output usernames in several different formats.
 - Frameworks - OSINT Framework, Maltego
 
+## Images - reverse lookup images
+- google images
+- yandex
+- bing images
+- tin eye
+
+
 ---
-- DNS
-	## DNS Records and lookups
+## DNS
+## DNS Records and lookups
 	~~~
 	• NS - Nameserver records contain the name of the authoritative servers hosting the DNS records for a domain.
 	• A - contains the IP address of a hostname.
