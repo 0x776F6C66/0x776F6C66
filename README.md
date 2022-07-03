@@ -14,20 +14,22 @@
 
 ---
 # Python
-## Important Python Modules
+## Python Modules
 - elevate - elevate priviledges
 - subprocess - execute commands e.g subprocess.run(command, shell=True, captureoutput=True)
-- json - convert to json and back
+- json, base64 - convert to respective encodings and back
 - os - run shell commands
 - pyautogui - keyboard and mouse e.g pressing a certain key (good for creating bots)
 - keyboard - anything related to the keyboard e.g checking if a key is pressed, replaying keyboard presses
 - pandas, numpy, matplotlib, opencv - Machine learning
+- beautiful soup - web scraping
+- urllib, requests - make web requests ans stuff
 
 ---
 # GOLang
 ## Reducing go binaries size (shedding of extra weight) 
 1. strip "unnecessary info" when building/compiling -- go build -ldflags="-s -w" "/path/to/source/file"
-2. Shed off extra weight from the compiled binary using upx -- upx --brute "/path/to/compiled/binary"
+2. Shed off extra weight from the compiled binary using upx -- upx --brute "/path/to/compiled/binary" (can be applied to other binaries ??)
 
 ## Cross-Compiling
 GOOS="linux" GOARCH="amd64" go build "/path/to/source/file" -- compile binary for linux amd64 machine
