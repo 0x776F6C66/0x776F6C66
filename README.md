@@ -19,8 +19,9 @@
 - subprocess - execute commands e.g subprocess.run(command, shell=True, captureoutput=True)
 - json - convert to json and back
 - os - run shell commands
-- pyautogui - keyboard and mouse e.g pressing a certain key
+- pyautogui - keyboard and mouse e.g pressing a certain key (good for creating bots)
 - keyboard - anything related to the keyboard e.g checking if a key is pressed, replaying keyboard presses
+- pandas, numpy, matplotlib, opencv - Machine learning
 
 ---
 # GOLang
