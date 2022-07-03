@@ -28,8 +28,8 @@
 ---
 # GOLang
 ## Reducing go binaries size (shedding of extra weight) 
-1. strip "unnecessary info" when building/compiling -- go build -ldflags="-s -w" "/path/to/source/file"
-2. Shed off extra weight from the compiled binary using upx -- upx --brute "/path/to/compiled/binary" (can be applied to other binaries ??)
+1. strip "unnecessary info" when building/compiling - go build -ldflags="-s -w" "/path/to/source/file"
+2. Shed off extra weight from the compiled binary using upx - upx --brute "/path/to/compiled/binary" (can be applied to other binaries ??)
 
 ## Cross-Compiling
 GOOS="linux" GOARCH="amd64" go build "/path/to/source/file" -- compile binary for linux amd64 machine
