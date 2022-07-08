@@ -11,10 +11,11 @@
 - ⚡ Another Fun fact: Hackers Write About 6,000 New Viruses Each Month :shushing_face:
 
 
-## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@0x776F6C66) 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0x776F6C66&theme=dark&background=000000)](https://git.io/streak-stats)
 
-# 🏆 GitHub Trophies
+
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=0x776F6C66&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <h3 align="left">🧑‍💻 Techstack and Tools:</h3>
@@ -33,15 +34,12 @@
 	<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 	<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 	<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
  
+#### 🌐 Socials:
+
 <p align="left">
 
   <a href="https://twitter.com/0x776F6C66" target="blank"><img src="https://img.shields.io/twitter/follow/0x776F6C66?logo=twitter&style=for-the-badge" alt="0x776F6C66" /></a>
 </p>
-
 
 <img src="https://komarev.com/ghpvc/?username=0x776F6C66" alt="0x776F6C66" />
